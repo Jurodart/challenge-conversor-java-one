@@ -10,7 +10,7 @@ public class Service {
 
     public void comecaAPP(){
 
-        final String APIKEY = "646955d674682f755a8f12f7";
+        final String APIKEY = "/*apikey*/";
         final String enderecoInicial = "https://v6.exchangerate-api.com/v6/";
 
         ConsomeAPI consomeAPI = new ConsomeAPI();
